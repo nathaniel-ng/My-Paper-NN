@@ -1,6 +1,6 @@
 #This code is used for writing a paper about loops
 
-word = "Newton"
+word = "Hawking"
 reversed_wood = ""
 
 for char in word:
