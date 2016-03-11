@@ -1,3 +1,5 @@
+#This code is used for writing a paper about loops
+
 word = "Newton"
 reversed_wood = ""
 
