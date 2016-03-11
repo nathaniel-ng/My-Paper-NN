@@ -1,7 +1,8 @@
 #This code is used for writing a paper about loops
 
-word = "Einstein"
-reversed_wood = ""
+<<<<<<< HEAD
+word = "Harry Potter"
+=======
 
 for char in word:
     print(char)
